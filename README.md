@@ -35,18 +35,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
-⚡️ AI-Powered Chatbot Interface Inspired by Perplexity.ai — Built using React and Redux Toolkit, this chatbot interacts with the Gemini 2.5 Flash API via the native fetch() API using a streaming POST request, generating real-time answers including text, images, and source links.
 
-🧠 Features:
 
-Streaming response handling for live, Perplexity-style user experience
+⚡️ AI Chatbot Interface (Perplexity Clone) built with Next.js, Redux Toolkit, and Tailwind CSS. It integrates the Gemini 2.5 Flash API using a streaming POST request via native fetch() to generate real-time responses — including text, images, and source links.
 
-Renders rich content (text, images, and source citations) from Gemini 2.5 Flash
-
-Conversation state managed via Redux Toolkit (slices, async flows)
-
-Clean and responsive UI styled with Tailwind CSS
-
-🔧 Tech Stack: React.js, Redux Toolkit, fetch API, Gemini 2.5 Flash, Tailwind CSS
-
-🚧 Note: Backend not implemented — Gemini API is directly consumed in this version.
